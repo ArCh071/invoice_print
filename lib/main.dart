@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               ChangeNotifierProvider(create: (_) => Homeprovider()),
             ],
             child: MaterialApp(
-              title: 'Invoice',
+              title: 'StoneAge',
               theme: ThemeData(
                 colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
                 useMaterial3: true,

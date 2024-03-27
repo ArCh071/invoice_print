@@ -947,7 +947,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         horizontal: .02 * w),
                                     child: value.submit3 == false
                                         ? const Text(
-                                            "Address",
+                                            "Buyer (Bill to)",
                                             style:
                                                 TextStyle(color: Colors.grey),
                                           )
